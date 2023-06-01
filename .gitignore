@@ -31,6 +31,9 @@ trust-policy.json
 # data
 data*
 
+#pycharm files
+.idea
+
 # logs
 logs/*
 *.log
