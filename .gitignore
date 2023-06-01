@@ -32,7 +32,7 @@ trust-policy.json
 data*
 
 #pycharm files
-.idea
+.idea/
 
 # logs
 logs/*
